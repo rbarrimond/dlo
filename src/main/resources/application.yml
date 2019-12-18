@@ -1,11 +1,5 @@
 ---
 spring:
-    profiles:
-        active: test
-
----
-spring:
-  profiles: test
   jpa:
     show-sql: false
     database: H2
